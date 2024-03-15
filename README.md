@@ -5,4 +5,4 @@ To use a template, create an **echoes** folder in the **templates** folder, copy
 
 ![this is what theme looks like](https://github.com/turboblack/HamsterCMS_Echoes_Bootstrap_theme/blob/main/example.png)
 
-to add a footer place [[footer.txt]] before **/body**  then open **footer.txt**, it is located in the includes folder and add your data there
+to add a footer place [[footer.txt]] before **/body** on index.html then open **footer.txt**, it is located in the includes folder and add your data there
